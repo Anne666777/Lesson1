@@ -1,0 +1,8 @@
+print("********************")
+print('   questionnaire')
+print('********************')
+name = input('Enter your name: ')
+age = input('Specify your age: ')
+print(f'Hi, {name}! {age} years is already a lot. Do not waste your time')
+color = input('What is you favorite color? Select any color except for green: ')
+print(f'{color} is very beautiful. But green color is perfect!')
